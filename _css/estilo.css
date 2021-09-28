@@ -1,11 +1,21 @@
 	h1{
-			background-color: deepskyblue;
+			color: white;
+			background-color: rebeccapurple;
 			text-align: center;
 			font-family: cursive;
 		}
 		
 	h2{
-			background-color: skyblue;
+			background-color: mediumpurple;
 			text-align: center;
 			font-family: cursive;
+			color: whitesmoke;
 		}
+	h4{
+			background-color: lightyellow;
+			text-align: center;
+			color: whitesmoke;
+	}
+	body{
+			background-color: ghostwhite;
+	}
